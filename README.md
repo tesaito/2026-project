@@ -1,2 +1,2 @@
 # 2026-project
-# Adding dummy commnet
+# Adding dummy comment
